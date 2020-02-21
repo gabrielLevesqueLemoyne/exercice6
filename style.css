@@ -1,4 +1,3 @@
-@charset "UTF-8";
 /*
  Theme Name:   Twenty Fifteen Enfant
  Theme URI:    http://referenced.ca
@@ -12,14 +11,19 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  twentynineteen-enfant
 */
-.enteteModifi {
-  color: blueviolet;
-  font-size: 5em;
-  background-color: aquamarine;
+.enteteModifi{
+    color: blueviolet;
+    font-size: 1em;
+    background-color: aquamarine;
+
 }
 
 .piedPageModif {
-  font-size: 1.5em;
-  background-color: chocolate;
+
+    font-size: 1.5em;
+    background-color: chocolate;
 }
-/*# sourceMappingURL=style.css.map */
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
