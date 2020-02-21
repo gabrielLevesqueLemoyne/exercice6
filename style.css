@@ -12,7 +12,11 @@
  Text Domain:  twentynineteen-enfant
 */
 
-
+.enteteModifi{
+    color: blueviolet;
+    font-size: 5em;
+    background-color: aquamarine;
+}
 
 body {
     font-family: 'Roboto', sans-serif;
